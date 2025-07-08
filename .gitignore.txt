@@ -1,0 +1,19 @@
+# Ignore virtual environments
+web_app/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+model_training/.ipynb_checkpoints/
+
+# IDE and OS files
+.idea/
+.DS_Store
+Thumbs.db
+
+# Optional: if you're not sharing model files
+# *.pkl
+# *.csv
